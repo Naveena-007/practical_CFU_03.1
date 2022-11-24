@@ -1,0 +1,67 @@
+body {
+  font-size: 18px;
+  background-color: hsl(217, 54%, 11%);
+  color: white;
+}
+:root {
+  color: hsl(217, 54%, 11%);
+  color: hsl(216, 50%, 16%);
+  color: hsl(216, 50%, 16%);
+  color: hsl(0, 0%, 100%);
+  color: hsl(215, 51%, 70%);
+  color: hsl(178, 100%, 50%);
+}
+.whole {
+  background-color: hsl(216, 50%, 16%);
+  height: 500px;
+  width: 270px;
+  border-radius: 12px;
+  padding: 25px;
+  margin: 150px;
+  margin-left: 600px;
+}
+h1 {
+  font-size: 22px;
+  font-weight: bold;
+}
+p {
+  color: hsl(215, 51%, 70%);
+}
+h4 {
+  margin: 0px;
+  padding: 0px;
+}
+.foot {
+  display: flex;
+  justify-content: space-between;
+}
+.foot1 {
+  display: flex;
+  color: hsl(178, 100%, 50%);
+  /* font-size: 14px; */
+  /* background-color: blue; */
+  width: 100px;
+  justify-content: space-between;
+}
+.foot2 {
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+}
+.avatar {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}
+.last {
+  display: flex;
+  justify-content: space-between;
+
+  width: 250px;
+}
+span {
+  color: hsl(0, 0%, 100%);
+}
+.hr {
+  color: hsl(215, 51%, 70%);
+}
